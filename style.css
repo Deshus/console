@@ -1,0 +1,65 @@
+* {
+	font-family: 'Inter', sans-serif;
+}
+
+html {
+	padding: 0;
+	margin: 0;
+	background-color: #212121;
+	display: inline;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+header {
+	background-color: #151515;
+	position: fixed;
+	width: 100%;
+}
+
+.clear {
+	border: 1px solid #000;
+	background-color: #181818;
+	color: #fff;
+	font-size: 20px;
+	margin: 7px;
+}
+
+.sort {
+	border: 1px solid #000;
+	background-color: #181818;
+	color: #fff;
+	font-size: 20px;
+	margin: 7px;
+}
+
+.console {
+	padding: 6px 8px;
+	padding-top: 40px;
+	margin-bottom: 32px;
+}
+.message {
+	color:#fff;
+	font-size: 14px;
+	margin: 4px;
+	margin-left: 8px;
+}
+
+footer {
+	width: 100%;
+	background-color: #151515;
+}
+.command-input {
+	padding: 4px;
+	margin: 0;
+	border: 1px #323232 solid;
+	background-color: #171717;
+	color: #fff;
+	position: fixed;
+ 	bottom: 0;
+	left: 0px;
+	right: 0px;
+	font-size: 20px;
+	margin:6px 18px;
+}
